@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahdi Sargolzaei.
-- 👀 I’m interested in software and data engineering.
+- 👀 I’m interested in data and Machine Learning Engineering.
 - 💞️ I’m looking to collaborate on a project reletaed to Big Data.
 How to reach me: click link below and find my Linkedin profile:
 https://www.linkedin.com/in/mahdi-sargolzaei-22469537/
